@@ -2,7 +2,7 @@ import { Wave } from "./wave.js"
 
 export class WaveGroup {
   constructor() {
-    this.tatalWaves = 15
+    this.tatalWaves = 3
     this.tatalPoints = 6
 
     this.color = [
